@@ -322,7 +322,6 @@ main {
   flex-direction: column;
 }
 .cart-total {
-  display: absolute;
   text-align: end;
   margin-top: 10px;
   margin-right: 10px;
